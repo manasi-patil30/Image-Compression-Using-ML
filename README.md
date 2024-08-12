@@ -1,4 +1,4 @@
-# manasi-patil30-Image-Processing-Using-ML
+# Image-Processing-Using-ML
 
 Compressed Image Project Description:
 
